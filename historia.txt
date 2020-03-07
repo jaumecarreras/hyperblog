@@ -1,3 +1,4 @@
 Nombre: jaume
 edad: 50
 poblacion: madrid
+Profesion: CTO
