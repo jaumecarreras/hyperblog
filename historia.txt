@@ -2,3 +2,5 @@ Nombre: jaume
 edad: 49
 poblacion: madrid
 Profesion: CTO
+Empresa: scenikus
+ciudad: madrid
