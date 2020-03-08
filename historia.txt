@@ -5,4 +5,3 @@ Profesion: CTO
 Empresa: scenikus
 ciudad: madrid
 Fecha naciemiento: 5/2 1970
-Habilidades:compositor
